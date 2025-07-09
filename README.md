@@ -27,5 +27,5 @@ Use Isolation Forest (unsupervised ML algorithm) to detect fraudulent transactio
 - Scikit-learn
 - Matplotlib & Seaborn
 
-## 🔗 Tags
-`#RDINFROTECH #anomalydetection #machinelearning #internship`
+## 🔗 GOOGLE COLAB LINK:
+https://colab.research.google.com/drive/1dDRZd78XZrnnsHDELsumpRIA94eso1g4?usp=sharing
