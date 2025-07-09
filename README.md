@@ -1,24 +1,31 @@
-# RD-INFRO-TECHNOLOGY
-# RD INFRO TECHNOLOGY Internship - Task 5: Anomaly Detection using ML
+# RD INFRO TECHNOLOGY Internship – Task 5: Anomaly Detection using ML
 
 ## 👨‍💻 Intern Name
 **GIRIDHARAN.D**
 
-## 🔹 Task Objective
-Build a machine learning model to detect fraudulent transactions (anomalies) using unsupervised algorithms like Isolation Forest.
+## 🔹 Objective
+Use Isolation Forest (unsupervised ML algorithm) to detect fraudulent transactions in a credit card dataset.
 
-## 💡 Features
-- Uses `IsolationForest` from sklearn
-- Visualizes fraud vs normal predictions
-- Evaluates model using precision and recall
+## 🧠 Dataset
+- `creditcard.csv` from Kaggle
+- Features: 30 anonymized + "Class" (1 = Fraud, 0 = Normal)
 
-## 📂 Dataset
-Credit Card Fraud Detection Dataset - Kaggle
+## 💡 Model Used
+- **IsolationForest** from `sklearn`
+- Contamination = 0.001 (matches fraud % in data)
 
-## 🛠️ Technologies
+## 📊 Evaluation
+- Confusion Matrix
+- Precision, Recall, F1-Score
+
+## 📷 Sample Visual
+![image](https://github.com/user-attachments/assets/1aadd62b-50df-4cbe-998b-52140af568bb)
+
+## 🛠️ Tech Stack
 - Python
 - Google Colab
-- Pandas, Sklearn, Matplotlib
+- Scikit-learn
+- Matplotlib & Seaborn
 
 ## 🔗 Tags
-`#RDINFROTECH` `#internship` `#datascience` `#anomalydetection`
+`#RDINFROTECH #anomalydetection #machinelearning #internship`
