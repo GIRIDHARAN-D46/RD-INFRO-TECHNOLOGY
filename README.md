@@ -29,3 +29,4 @@ Use Isolation Forest (unsupervised ML algorithm) to detect fraudulent transactio
 
 ## 🔗 GOOGLE COLAB LINK:
 https://colab.research.google.com/drive/1dDRZd78XZrnnsHDELsumpRIA94eso1g4?usp=sharing
+# KINDLY CHECK THE INTERNSHIP REPORT FILE WHICH IS UPLOADED IN THIS REPO.
